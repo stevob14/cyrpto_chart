@@ -221,3 +221,5 @@ def chart(price,volume):
 </script>
                         '''
     return output
+
+crypto_chart("bitcoin")
